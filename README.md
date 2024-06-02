@@ -10,7 +10,7 @@ Cкрипт, написанный на Python, представляет собо
 ```
 ## Usage
 
-**Parsing Master Boot Record only:**
+**Парсинг MBR:**
 ```
 $ python3 --image /path/to/image --mbr
 ```
